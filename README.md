@@ -5,4 +5,4 @@ This program is for a fictional diner and allows the user to select a table (1-1
 
 It is not perfect and there are things I would probably change if I were to do this project again, but I think it is a nice, neat, tight little program.
 
-Additionally, since I am a raw beginner in GitHub, the uploaded files are a bit...jumbled and probably won't run right.  If I ever figure out how to fix that, I will, but for now, all the files except for the image, this readme, and the license should be in a src folder.  The image needs to go into an img folder in the same directory as the src folder for the program to run properly.
+I am a new GitHub user, but I think I've got the files properly organized.  They should run, but it might take some fiddling since I uploaded the files and did all the organizing myself.
